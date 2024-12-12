@@ -20,4 +20,3 @@ p21.then(f21).catch(f22)
 
 // プログラム22
 p21.then((value) => {f21(value);}).catch(f22)
-
